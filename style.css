@@ -81,7 +81,7 @@ footer {
 
 }
 
-@media (max-width 576px) {
+@media (max-width: 576px) {
     .hero {
         background-color: aqua;
         display:block;
