@@ -13,3 +13,7 @@ An individual's portfolio is an important step when it comes to entering the job
   
   ### Image and Link
   ---
+  
+  ![Portfolio Webpage](webpage.png)
+
+  [Link to Webpage] (https://zyzix564.github.io/challenge2/)
